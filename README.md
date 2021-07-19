@@ -1,2 +1,1 @@
-# Python
-python codes
+#python codes
